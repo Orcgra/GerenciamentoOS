@@ -40,7 +40,7 @@ public class TelaNovoChamado extends javax.swing.JFrame {
         BotaoSalvar1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("ORCGRA - ORDEM DE SERVIÇOS");
+        setTitle("Orcgra - Gerenciamento de O.S");
         setResizable(false);
 
         Logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagens/Logo ORCGRA.png"))); // NOI18N

@@ -33,6 +33,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         TextAtenderChamado = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Orcgra - Gerenciamento de O.S");
 
         Logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagens/Logo ORCGRA.png"))); // NOI18N
         Logo.setText("jLabel3");

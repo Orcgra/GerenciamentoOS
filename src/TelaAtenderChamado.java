@@ -39,6 +39,7 @@ public class TelaAtenderChamado extends javax.swing.JFrame {
         BotaoSalvar1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Orcgra - Gerenciamento de O.S");
 
         Logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagens/Logo ORCGRA.png"))); // NOI18N
         Logo.setText("jLabel3");
